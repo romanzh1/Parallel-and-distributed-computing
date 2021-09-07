@@ -1,0 +1,36 @@
+D:\University\Parallel-and-distributed-computing\Parallel-sorts\Parallel-sorts\bin\Debug\net5.0-windows\Parallel-sorts.exe
+D:\University\Parallel-and-distributed-computing\Parallel-sorts\Parallel-sorts\bin\Debug\net5.0-windows\Parallel-sorts.deps.json
+D:\University\Parallel-and-distributed-computing\Parallel-sorts\Parallel-sorts\bin\Debug\net5.0-windows\Parallel-sorts.runtimeconfig.json
+D:\University\Parallel-and-distributed-computing\Parallel-sorts\Parallel-sorts\bin\Debug\net5.0-windows\Parallel-sorts.runtimeconfig.dev.json
+D:\University\Parallel-and-distributed-computing\Parallel-sorts\Parallel-sorts\bin\Debug\net5.0-windows\Parallel-sorts.dll
+D:\University\Parallel-and-distributed-computing\Parallel-sorts\Parallel-sorts\bin\Debug\net5.0-windows\ref\Parallel-sorts.dll
+D:\University\Parallel-and-distributed-computing\Parallel-sorts\Parallel-sorts\bin\Debug\net5.0-windows\Parallel-sorts.pdb
+D:\University\Parallel-and-distributed-computing\Parallel-sorts\Parallel-sorts\obj\Debug\net5.0-windows\Parallel-sorts.csproj.AssemblyReference.cache
+D:\University\Parallel-and-distributed-computing\Parallel-sorts\Parallel-sorts\obj\Debug\net5.0-windows\Parallel_sorts.Form1.resources
+D:\University\Parallel-and-distributed-computing\Parallel-sorts\Parallel-sorts\obj\Debug\net5.0-windows\Parallel-sorts.csproj.GenerateResource.cache
+D:\University\Parallel-and-distributed-computing\Parallel-sorts\Parallel-sorts\obj\Debug\net5.0-windows\Parallel-sorts.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\Parallel-and-distributed-computing\Parallel-sorts\Parallel-sorts\obj\Debug\net5.0-windows\Parallel-sorts.AssemblyInfoInputs.cache
+D:\University\Parallel-and-distributed-computing\Parallel-sorts\Parallel-sorts\obj\Debug\net5.0-windows\Parallel-sorts.AssemblyInfo.cs
+D:\University\Parallel-and-distributed-computing\Parallel-sorts\Parallel-sorts\obj\Debug\net5.0-windows\Parallel-sorts.csproj.CoreCompileInputs.cache
+D:\University\Parallel-and-distributed-computing\Parallel-sorts\Parallel-sorts\obj\Debug\net5.0-windows\Parallel-sorts.dll
+D:\University\Parallel-and-distributed-computing\Parallel-sorts\Parallel-sorts\obj\Debug\net5.0-windows\ref\Parallel-sorts.dll
+D:\University\Parallel-and-distributed-computing\Parallel-sorts\Parallel-sorts\obj\Debug\net5.0-windows\Parallel-sorts.pdb
+D:\University\Parallel-and-distributed-computing\Parallel-sorts\Parallel-sorts\obj\Debug\net5.0-windows\Parallel-sorts.genruntimeconfig.cache
+C:\Users\hljkh\OneDrive\Рабочий стол\Parallel-sorts\Parallel-sorts\bin\Debug\net5.0-windows\Parallel-sorts.exe
+C:\Users\hljkh\OneDrive\Рабочий стол\Parallel-sorts\Parallel-sorts\bin\Debug\net5.0-windows\Parallel-sorts.deps.json
+C:\Users\hljkh\OneDrive\Рабочий стол\Parallel-sorts\Parallel-sorts\bin\Debug\net5.0-windows\Parallel-sorts.runtimeconfig.json
+C:\Users\hljkh\OneDrive\Рабочий стол\Parallel-sorts\Parallel-sorts\bin\Debug\net5.0-windows\Parallel-sorts.runtimeconfig.dev.json
+C:\Users\hljkh\OneDrive\Рабочий стол\Parallel-sorts\Parallel-sorts\bin\Debug\net5.0-windows\Parallel-sorts.dll
+C:\Users\hljkh\OneDrive\Рабочий стол\Parallel-sorts\Parallel-sorts\bin\Debug\net5.0-windows\ref\Parallel-sorts.dll
+C:\Users\hljkh\OneDrive\Рабочий стол\Parallel-sorts\Parallel-sorts\bin\Debug\net5.0-windows\Parallel-sorts.pdb
+C:\Users\hljkh\OneDrive\Рабочий стол\Parallel-sorts\Parallel-sorts\obj\Debug\net5.0-windows\Parallel-sorts.csproj.AssemblyReference.cache
+C:\Users\hljkh\OneDrive\Рабочий стол\Parallel-sorts\Parallel-sorts\obj\Debug\net5.0-windows\Parallel_sorts.Form1.resources
+C:\Users\hljkh\OneDrive\Рабочий стол\Parallel-sorts\Parallel-sorts\obj\Debug\net5.0-windows\Parallel-sorts.csproj.GenerateResource.cache
+C:\Users\hljkh\OneDrive\Рабочий стол\Parallel-sorts\Parallel-sorts\obj\Debug\net5.0-windows\Parallel-sorts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hljkh\OneDrive\Рабочий стол\Parallel-sorts\Parallel-sorts\obj\Debug\net5.0-windows\Parallel-sorts.AssemblyInfoInputs.cache
+C:\Users\hljkh\OneDrive\Рабочий стол\Parallel-sorts\Parallel-sorts\obj\Debug\net5.0-windows\Parallel-sorts.AssemblyInfo.cs
+C:\Users\hljkh\OneDrive\Рабочий стол\Parallel-sorts\Parallel-sorts\obj\Debug\net5.0-windows\Parallel-sorts.csproj.CoreCompileInputs.cache
+C:\Users\hljkh\OneDrive\Рабочий стол\Parallel-sorts\Parallel-sorts\obj\Debug\net5.0-windows\Parallel-sorts.dll
+C:\Users\hljkh\OneDrive\Рабочий стол\Parallel-sorts\Parallel-sorts\obj\Debug\net5.0-windows\ref\Parallel-sorts.dll
+C:\Users\hljkh\OneDrive\Рабочий стол\Parallel-sorts\Parallel-sorts\obj\Debug\net5.0-windows\Parallel-sorts.pdb
+C:\Users\hljkh\OneDrive\Рабочий стол\Parallel-sorts\Parallel-sorts\obj\Debug\net5.0-windows\Parallel-sorts.genruntimeconfig.cache
