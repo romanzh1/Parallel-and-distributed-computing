@@ -29,6 +29,7 @@ namespace Parallel_sorts
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.button3 = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
@@ -41,6 +42,7 @@ namespace Parallel_sorts
             this.groupBox3 = new System.Windows.Forms.GroupBox();
             this.button5 = new System.Windows.Forms.Button();
             this.label3 = new System.Windows.Forms.Label();
+            this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -108,7 +110,7 @@ namespace Parallel_sorts
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(123, 41);
             this.textBox1.TabIndex = 3;
-            this.textBox1.Text = "10000";
+            this.textBox1.Text = "1000";
             // 
             // groupBox2
             // 
@@ -176,6 +178,11 @@ namespace Parallel_sorts
             this.label3.TabIndex = 1;
             this.label3.Text = "time";
             // 
+            // timer1
+            // 
+            this.timer1.Interval = 10;
+            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 26F);
@@ -191,6 +198,7 @@ namespace Parallel_sorts
             this.Font = new System.Drawing.Font("Comic Sans MS", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.Margin = new System.Windows.Forms.Padding(5);
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Sort_romanzh1";
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
@@ -217,6 +225,7 @@ namespace Parallel_sorts
         private System.Windows.Forms.GroupBox groupBox3;
         private System.Windows.Forms.Button button5;
         private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Timer timer1;
     }
 }
 
