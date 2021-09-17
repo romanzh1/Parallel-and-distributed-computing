@@ -7,11 +7,18 @@ using System.Diagnostics;
 
 namespace Parallel_sorts
 {
+    public delegate void retProg(int pr);
+
     class Sorts
     {
+        public retProg pr1;
+        public retProg pr2;
+        public retProg pr3;
         Random c = new Random();
         public int N;
         public int p;
+        int rec;
+        double recProg;
         public int[] arr;
         int left;
         int right;
@@ -22,6 +29,8 @@ namespace Parallel_sorts
         {
             fin = false;
             N = 0;
+            rec = 0;
+            recProg = 0;
         }
 
         public int[] genArr()
@@ -31,12 +40,15 @@ namespace Parallel_sorts
             {
                 arr[i] = c.Next(0, 100000);
             }
+            if (N >= 1000000) recProg = 100 / (N * 1.8);
+            else recProg = 100 / (N * 1.4);
             return arr;
         }
 
         public void sortChoice()
         {
             p = 0;
+            pr3(0);
             sw = Stopwatch.StartNew();
             for (int i = 0; i < N; i++)
             {
@@ -52,6 +64,7 @@ namespace Parallel_sorts
                         t = t + 1;
                     }
                 }
+                pr3(100*i/N);
                 if (t != 0)
                 {
                     p++; //перестановки
@@ -61,12 +74,14 @@ namespace Parallel_sorts
 
             }
             sw.Stop();
+            pr3(100);
             fin = true;
         }
 
         public void sortInsert()
         {
             p = 0;
+            pr2(0);
             sw = Stopwatch.StartNew();
             for (int q = 1; q < N; q++)
             {
@@ -84,9 +99,11 @@ namespace Parallel_sorts
                     arr[w] = ke;
                     p++; //перестановки
                 }
+                pr2(100 * q / N);
                 t = 0;
             }
             sw.Stop();
+            pr2(100);
             fin = true;
         }
 
@@ -142,14 +159,18 @@ namespace Parallel_sorts
             p = 0;
             left = 0;
             right = N - 1;
+            pr1(0);
             sw = Stopwatch.StartNew();
             QuickSort(arr, left, right);
             sw.Stop();
+            pr1(100);
             fin = true;
         }
 
         private void QuickSort(int[] array, int left, int right)
         {
+            rec++;
+            pr1((int)Math.Round(recProg * rec)); 
             if (left < right)
             {
                 int pivot = Partition(array, left, right);

@@ -20,7 +20,6 @@ namespace Parallel_sorts
         ListBox listBox1 = new ListBox();
         Form listArrs;
 
-
         public Form1()
         {
             InitializeComponent();
@@ -29,7 +28,7 @@ namespace Parallel_sorts
 
         private void button1_Click(object sender, EventArgs e)
         {
-            
+
             listArrs.Visible = false;
             int len = Int32.Parse(textBox1.Text);
             so1 = new Sorts();
@@ -47,9 +46,45 @@ namespace Parallel_sorts
             }
         }
 
+        private void Progress(int x){
+            if (InvokeRequired)
+            {
+                retProg newPr = Progress;
+                Invoke(newPr, x);
+                return;
+            }
+            progressBar3.Value = x;
+        }
+
+        private void Progress2(int x)
+        {
+            if (InvokeRequired)
+            {
+                retProg newPr = Progress2;
+                Invoke(newPr, x);
+                return;
+            }
+            progressBar2.Value = x;
+        }
+
+        private void Progress3(int x)
+        {
+            if (InvokeRequired)
+            {
+                retProg newPr = Progress3;
+                Invoke(newPr, x);
+                return;
+            }
+            progressBar1.Value = x;
+        }
+
         private void button2_Click(object sender, EventArgs e)
         {
             listArrs.Visible = false;
+
+            so1.pr1 = Progress;
+            so2.pr2 = Progress2;
+            so3.pr3 = Progress3;
 
             timer1.Start();
             Thread flow1 = new Thread(so1.sortQuick);
@@ -116,6 +151,11 @@ namespace Parallel_sorts
             listArrs.Font = new Font("Comic Sans MS", 15);
             listArrs.Controls.Add(listBox1);
             listArrs.ControlBox = false;
+        }
+
+        private void progressBar1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

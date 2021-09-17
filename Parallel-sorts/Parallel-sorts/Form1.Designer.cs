@@ -31,6 +31,7 @@ namespace Parallel_sorts
         {
             this.components = new System.ComponentModel.Container();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.progressBar1 = new System.Windows.Forms.ProgressBar();
             this.button3 = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
@@ -43,6 +44,8 @@ namespace Parallel_sorts
             this.button5 = new System.Windows.Forms.Button();
             this.label3 = new System.Windows.Forms.Label();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
+            this.progressBar2 = new System.Windows.Forms.ProgressBar();
+            this.progressBar3 = new System.Windows.Forms.ProgressBar();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -50,6 +53,7 @@ namespace Parallel_sorts
             // 
             // groupBox1
             // 
+            this.groupBox1.Controls.Add(this.progressBar1);
             this.groupBox1.Controls.Add(this.button3);
             this.groupBox1.Controls.Add(this.label1);
             this.groupBox1.Location = new System.Drawing.Point(14, 14);
@@ -61,9 +65,17 @@ namespace Parallel_sorts
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Choice";
             // 
+            // progressBar1
+            // 
+            this.progressBar1.Location = new System.Drawing.Point(33, 281);
+            this.progressBar1.Name = "progressBar1";
+            this.progressBar1.Size = new System.Drawing.Size(192, 37);
+            this.progressBar1.TabIndex = 4;
+            this.progressBar1.Click += new System.EventHandler(this.progressBar1_Click);
+            // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(66, 356);
+            this.button3.Location = new System.Drawing.Point(61, 356);
             this.button3.Margin = new System.Windows.Forms.Padding(5);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(139, 41);
@@ -83,7 +95,7 @@ namespace Parallel_sorts
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(54, 474);
+            this.button1.Location = new System.Drawing.Point(47, 470);
             this.button1.Margin = new System.Windows.Forms.Padding(5);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(192, 41);
@@ -94,7 +106,7 @@ namespace Parallel_sorts
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(79, 546);
+            this.button2.Location = new System.Drawing.Point(75, 528);
             this.button2.Margin = new System.Windows.Forms.Padding(5);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(140, 41);
@@ -105,7 +117,7 @@ namespace Parallel_sorts
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(254, 474);
+            this.textBox1.Location = new System.Drawing.Point(258, 470);
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(123, 41);
@@ -114,6 +126,7 @@ namespace Parallel_sorts
             // 
             // groupBox2
             // 
+            this.groupBox2.Controls.Add(this.progressBar2);
             this.groupBox2.Controls.Add(this.button4);
             this.groupBox2.Controls.Add(this.label2);
             this.groupBox2.Location = new System.Drawing.Point(304, 14);
@@ -127,7 +140,7 @@ namespace Parallel_sorts
             // 
             // button4
             // 
-            this.button4.Location = new System.Drawing.Point(66, 356);
+            this.button4.Location = new System.Drawing.Point(55, 356);
             this.button4.Margin = new System.Windows.Forms.Padding(5);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(139, 41);
@@ -147,6 +160,7 @@ namespace Parallel_sorts
             // 
             // groupBox3
             // 
+            this.groupBox3.Controls.Add(this.progressBar3);
             this.groupBox3.Controls.Add(this.button5);
             this.groupBox3.Controls.Add(this.label3);
             this.groupBox3.Location = new System.Drawing.Point(590, 14);
@@ -160,7 +174,7 @@ namespace Parallel_sorts
             // 
             // button5
             // 
-            this.button5.Location = new System.Drawing.Point(66, 356);
+            this.button5.Location = new System.Drawing.Point(57, 356);
             this.button5.Margin = new System.Windows.Forms.Padding(5);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(139, 41);
@@ -182,6 +196,20 @@ namespace Parallel_sorts
             // 
             this.timer1.Interval = 10;
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
+            // 
+            // progressBar2
+            // 
+            this.progressBar2.Location = new System.Drawing.Point(32, 281);
+            this.progressBar2.Name = "progressBar2";
+            this.progressBar2.Size = new System.Drawing.Size(192, 37);
+            this.progressBar2.TabIndex = 5;
+            // 
+            // progressBar3
+            // 
+            this.progressBar3.Location = new System.Drawing.Point(34, 281);
+            this.progressBar3.Name = "progressBar3";
+            this.progressBar3.Size = new System.Drawing.Size(192, 37);
+            this.progressBar3.TabIndex = 5;
             // 
             // Form1
             // 
@@ -226,6 +254,9 @@ namespace Parallel_sorts
         private System.Windows.Forms.Button button5;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Timer timer1;
+        private System.Windows.Forms.ProgressBar progressBar1;
+        private System.Windows.Forms.ProgressBar progressBar2;
+        private System.Windows.Forms.ProgressBar progressBar3;
     }
 }
 
