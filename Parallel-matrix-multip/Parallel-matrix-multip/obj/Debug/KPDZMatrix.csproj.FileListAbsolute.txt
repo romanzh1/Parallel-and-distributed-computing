@@ -1,0 +1,40 @@
+C:\Users\Dell\source\repos\KPDZMatrix\KPDZMatrix\bin\Debug\KPDZMatrix.exe.config
+C:\Users\Dell\source\repos\KPDZMatrix\KPDZMatrix\bin\Debug\KPDZMatrix.exe
+C:\Users\Dell\source\repos\KPDZMatrix\KPDZMatrix\bin\Debug\KPDZMatrix.pdb
+C:\Users\Dell\source\repos\KPDZMatrix\KPDZMatrix\obj\Debug\KPDZMatrix.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\KPDZMatrix\KPDZMatrix\obj\Debug\KPDZMatrix.Form1.resources
+C:\Users\Dell\source\repos\KPDZMatrix\KPDZMatrix\obj\Debug\KPDZMatrix.Properties.Resources.resources
+C:\Users\Dell\source\repos\KPDZMatrix\KPDZMatrix\obj\Debug\KPDZMatrix.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\KPDZMatrix\KPDZMatrix\obj\Debug\KPDZMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\KPDZMatrix\KPDZMatrix\obj\Debug\KPDZMatrix.exe
+C:\Users\Dell\source\repos\KPDZMatrix\KPDZMatrix\obj\Debug\KPDZMatrix.pdb
+C:\Users\Dell\source\repos\2019 - 2 семестр\Семинар 5\KPDZMatrix\KPDZMatrix\bin\Debug\KPDZMatrix.exe.config
+C:\Users\Dell\source\repos\2019 - 2 семестр\Семинар 5\KPDZMatrix\KPDZMatrix\bin\Debug\KPDZMatrix.exe
+C:\Users\Dell\source\repos\2019 - 2 семестр\Семинар 5\KPDZMatrix\KPDZMatrix\bin\Debug\KPDZMatrix.pdb
+C:\Users\Dell\source\repos\2019 - 2 семестр\Семинар 5\KPDZMatrix\KPDZMatrix\obj\Debug\KPDZMatrix.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\2019 - 2 семестр\Семинар 5\KPDZMatrix\KPDZMatrix\obj\Debug\KPDZMatrix.Form1.resources
+C:\Users\Dell\source\repos\2019 - 2 семестр\Семинар 5\KPDZMatrix\KPDZMatrix\obj\Debug\KPDZMatrix.Properties.Resources.resources
+C:\Users\Dell\source\repos\2019 - 2 семестр\Семинар 5\KPDZMatrix\KPDZMatrix\obj\Debug\KPDZMatrix.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\2019 - 2 семестр\Семинар 5\KPDZMatrix\KPDZMatrix\obj\Debug\KPDZMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\2019 - 2 семестр\Семинар 5\KPDZMatrix\KPDZMatrix\obj\Debug\KPDZMatrix.exe
+C:\Users\Dell\source\repos\2019 - 2 семестр\Семинар 5\KPDZMatrix\KPDZMatrix\obj\Debug\KPDZMatrix.pdb
+D:\University\1 course\ПЯВУ и КП\2019 - 2 семестр\(5)MatricsKP_and_work_with_2Forms\KPDZMatrix\KPDZMatrix\bin\Debug\KPDZMatrix.exe.config
+D:\University\1 course\ПЯВУ и КП\2019 - 2 семестр\(5)MatricsKP_and_work_with_2Forms\KPDZMatrix\KPDZMatrix\bin\Debug\KPDZMatrix.exe
+D:\University\1 course\ПЯВУ и КП\2019 - 2 семестр\(5)MatricsKP_and_work_with_2Forms\KPDZMatrix\KPDZMatrix\bin\Debug\KPDZMatrix.pdb
+D:\University\1 course\ПЯВУ и КП\2019 - 2 семестр\(5)MatricsKP_and_work_with_2Forms\KPDZMatrix\KPDZMatrix\obj\Debug\KPDZMatrix.csproj.AssemblyReference.cache
+D:\University\1 course\ПЯВУ и КП\2019 - 2 семестр\(5)MatricsKP_and_work_with_2Forms\KPDZMatrix\KPDZMatrix\obj\Debug\KPDZMatrix.Form1.resources
+D:\University\1 course\ПЯВУ и КП\2019 - 2 семестр\(5)MatricsKP_and_work_with_2Forms\KPDZMatrix\KPDZMatrix\obj\Debug\KPDZMatrix.Properties.Resources.resources
+D:\University\1 course\ПЯВУ и КП\2019 - 2 семестр\(5)MatricsKP_and_work_with_2Forms\KPDZMatrix\KPDZMatrix\obj\Debug\KPDZMatrix.csproj.GenerateResource.cache
+D:\University\1 course\ПЯВУ и КП\2019 - 2 семестр\(5)MatricsKP_and_work_with_2Forms\KPDZMatrix\KPDZMatrix\obj\Debug\KPDZMatrix.csproj.CoreCompileInputs.cache
+D:\University\1 course\ПЯВУ и КП\2019 - 2 семестр\(5)MatricsKP_and_work_with_2Forms\KPDZMatrix\KPDZMatrix\obj\Debug\KPDZMatrix.exe
+D:\University\1 course\ПЯВУ и КП\2019 - 2 семестр\(5)MatricsKP_and_work_with_2Forms\KPDZMatrix\KPDZMatrix\obj\Debug\KPDZMatrix.pdb
+D:\University\Parallel-and-distributed-computing\KPDZMatrix\KPDZMatrix\bin\Debug\KPDZMatrix.exe.config
+D:\University\Parallel-and-distributed-computing\KPDZMatrix\KPDZMatrix\bin\Debug\KPDZMatrix.exe
+D:\University\Parallel-and-distributed-computing\KPDZMatrix\KPDZMatrix\bin\Debug\KPDZMatrix.pdb
+D:\University\Parallel-and-distributed-computing\KPDZMatrix\KPDZMatrix\obj\Debug\KPDZMatrix.csproj.AssemblyReference.cache
+D:\University\Parallel-and-distributed-computing\KPDZMatrix\KPDZMatrix\obj\Debug\KPDZMatrix.Form1.resources
+D:\University\Parallel-and-distributed-computing\KPDZMatrix\KPDZMatrix\obj\Debug\KPDZMatrix.Properties.Resources.resources
+D:\University\Parallel-and-distributed-computing\KPDZMatrix\KPDZMatrix\obj\Debug\KPDZMatrix.csproj.GenerateResource.cache
+D:\University\Parallel-and-distributed-computing\KPDZMatrix\KPDZMatrix\obj\Debug\KPDZMatrix.csproj.CoreCompileInputs.cache
+D:\University\Parallel-and-distributed-computing\KPDZMatrix\KPDZMatrix\obj\Debug\KPDZMatrix.exe
+D:\University\Parallel-and-distributed-computing\KPDZMatrix\KPDZMatrix\obj\Debug\KPDZMatrix.pdb

@@ -1,0 +1,10 @@
+D:\University\Parallel-and-distributed-computing\KPDZMatrix\KPDZMatrix\obj\Debug\Parallel-matrix-multip.csproj.GenerateResource.cache
+D:\University\Parallel-and-distributed-computing\KPDZMatrix\KPDZMatrix\obj\Debug\Parallel-matrix-multip.csproj.CoreCompileInputs.cache
+D:\University\Parallel-and-distributed-computing\KPDZMatrix\KPDZMatrix\obj\Debug\Parallel-matrix-multip.csproj.AssemblyReference.cache
+D:\University\Parallel-and-distributed-computing\KPDZMatrix\KPDZMatrix\bin\Debug\Parallel-matrix-multip.exe.config
+D:\University\Parallel-and-distributed-computing\KPDZMatrix\KPDZMatrix\bin\Debug\Parallel-matrix-multip.exe
+D:\University\Parallel-and-distributed-computing\KPDZMatrix\KPDZMatrix\bin\Debug\Parallel-matrix-multip.pdb
+D:\University\Parallel-and-distributed-computing\KPDZMatrix\KPDZMatrix\obj\Debug\Parallel_matrix_multip.Form1.resources
+D:\University\Parallel-and-distributed-computing\KPDZMatrix\KPDZMatrix\obj\Debug\Parallel_matrix_multip.Properties.Resources.resources
+D:\University\Parallel-and-distributed-computing\KPDZMatrix\KPDZMatrix\obj\Debug\Parallel-matrix-multip.exe
+D:\University\Parallel-and-distributed-computing\KPDZMatrix\KPDZMatrix\obj\Debug\Parallel-matrix-multip.pdb
