@@ -69,7 +69,7 @@
             this.Okno1.Name = "Okno1";
             this.Okno1.Size = new System.Drawing.Size(77, 52);
             this.Okno1.TabIndex = 1;
-            this.Okno1.Text = "3";
+            this.Okno1.Text = "8";
             this.Okno1.TextChanged += new System.EventHandler(this.Okno1_TextChanged);
             // 
             // Str1
@@ -151,7 +151,7 @@
             this.Okno5.Name = "Okno5";
             this.Okno5.Size = new System.Drawing.Size(81, 52);
             this.Okno5.TabIndex = 13;
-            this.Okno5.Text = "3";
+            this.Okno5.Text = "8";
             // 
             // Okno7
             // 
