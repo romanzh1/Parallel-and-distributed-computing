@@ -117,6 +117,10 @@ namespace Parallel_matrix_multip
                     flow[i] = new Thread(multThread);
                     flow[i].Start(am[i]);
                 }
+                for (int i = 0; i < am.Length; i++)
+                {
+                    flow[i].Join();
+                }
             }
 
             return rez;
