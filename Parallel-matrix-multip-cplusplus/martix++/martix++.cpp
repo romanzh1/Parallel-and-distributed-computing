@@ -1,28 +1,34 @@
-﻿// Parallel-matrix-multip-cplusplus.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
+﻿// martix++.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
 //
 
 #include <iostream>
-#include <cstdlib>
-#include <random>
-
-
+#include "myMatrix.h"
+#include <time.h>
 using namespace std;
-
-int getRandomNumber(int min, int max)
-{
-    static const double fraction = 1.0 / (static_cast<double>(RAND_MAX) + 1.0);
-    return static_cast<int>(rand() * fraction * (max - min + 1) + min);
-}
 
 int main()
 {
-    std::cout << "Hello World!\n";
-
-    int N = 100;
-        
-    int x = rand() / (1.0 + rand());
-
-    //getRandomNumber(1, 100);
+    cout << "Enter size of Matrix" << endl;
+    int m;
+    cin >> m;
+    myMatrix a(m);
+    myMatrix b(m);
+    clock_t t1 = clock();
+    myMatrix* x = a.Multi(b);
+    t1 = clock() - t1;
+    cout << "Time: " << (float)t1 << endl;
+    cout <<  "Spur: " << x->getSpur() << endl;
+    cout << endl;
+    t1 = clock();
+    myMatrix* x2 = a.MultiParal(b);
+    t1 = clock() - t1;
+    cout << "Time: " << (float)t1 << endl;
+    cout << "Spur: " << x2->getSpur() << endl;
+    cout << endl;
+    /*for (int i = 0; i < 2; i++)
+    {
+        cout << x->matrix[i][0] << " " << x->matrix[i][1] << endl;
+    }*/
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"

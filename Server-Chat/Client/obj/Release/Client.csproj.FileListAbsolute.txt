@@ -1,0 +1,9 @@
+D:\University\Parallel-and-distributed-computing\Server-Chat\Client\bin\Release\Client.exe.config
+D:\University\Parallel-and-distributed-computing\Server-Chat\Client\bin\Release\Client.exe
+D:\University\Parallel-and-distributed-computing\Server-Chat\Client\bin\Release\Client.pdb
+D:\University\Parallel-and-distributed-computing\Server-Chat\Client\obj\Release\Client.Form1.resources
+D:\University\Parallel-and-distributed-computing\Server-Chat\Client\obj\Release\Client.Properties.Resources.resources
+D:\University\Parallel-and-distributed-computing\Server-Chat\Client\obj\Release\Client.csproj.GenerateResource.cache
+D:\University\Parallel-and-distributed-computing\Server-Chat\Client\obj\Release\Client.csproj.CoreCompileInputs.cache
+D:\University\Parallel-and-distributed-computing\Server-Chat\Client\obj\Release\Client.exe
+D:\University\Parallel-and-distributed-computing\Server-Chat\Client\obj\Release\Client.pdb

@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{9f4fce39-9cfd-4c7a-a268-94318642bc73}</ProjectGuid>
-    <RootNamespace>Parallelmatrixmultipcplusplus</RootNamespace>
+    <ProjectGuid>{a0b67304-2efb-43a1-94fe-45ec9fe63284}</ProjectGuid>
+    <RootNamespace>martix</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -116,6 +116,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <OpenMPSupport>true</OpenMPSupport>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -139,7 +140,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Parallel-matrix-multip-cplusplus.cpp" />
+    <ClCompile Include="martix++.cpp" />
+    <ClCompile Include="myMatrix.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="myMatrix.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
